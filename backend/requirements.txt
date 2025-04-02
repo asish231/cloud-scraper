@@ -7,3 +7,9 @@ lxml
 
 googlesearch-python
 selenium
+fastapi
+uvicorn
+requests
+beautifulsoup4
+googlesearch-python
+
