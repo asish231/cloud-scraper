@@ -4,3 +4,6 @@ httpx
 beautifulsoup4
 requests
 lxml
+
+googlesearch-python
+selenium
